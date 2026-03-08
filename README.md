@@ -10,16 +10,5 @@ _Backend_
 
 - Node.js
 - Express
-- PostgreSQL
-- Prisma ORM
+- MongoDB and Mongoose
 - JWT Authentication
-
-## ⚠️ Disclaimer
-
-This project is independently designed and built for learning purposes.
-
----
-
-## 👨‍💻 Author
-
-Built as part of a continuous journey toward becoming a stronger backend engineer.
